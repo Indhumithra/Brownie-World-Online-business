@@ -6,7 +6,9 @@ Brownie world is a fully responsive, single-page website built using vanilla HTM
 It showcases products like brownies and cakes, offers an e-commerce-like experience (without a backend), and is perfect for attracting and engaging local customers. Whether on mobile or desktop, the site ensures a seamless browsing experience.
 
 🚀 Live Demo
+
 You can view the live version of the site here:
+
 
 ✨ Key Features
 
@@ -64,9 +66,7 @@ Clone the repository:
 
 git clone 
 
-Navigate to the project directory:
-
-cd Baking-Business
+Navigate to the project directory: cd Baking-Business
 
 Open index.html in your web browser.
 
