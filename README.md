@@ -9,6 +9,7 @@ It showcases products like brownies and cakes, offers an e-commerce-like experie
 You can view the live version of the site here:
 
 ✨ Key Features
+
 Fully Responsive Design: A mobile-first approach ensures the site looks great on all devices, from small phones to large desktops.
 Modern Dark Theme: A visually appealing dark theme with gold and berry accents for a premium feel.
 Interactive Product Cards: Users can browse products with hover effects and quick actions.
@@ -18,7 +19,9 @@ Dynamic Modals: Sleek, animated modals for the cart, wishlist, and checkout/orde
 On-Scroll Animations: Elements animate into view as the user scrolls down the page, powered by the IntersectionObserver API for optimal performance.
 Interactive Testimonial Slider: A custom-built, touch-friendly slider for customer reviews.
 Client-Side Form Handling: A functional contact form and order form that provide user feedback on the front end.
+
 🛠️ Technologies Used
+
 HTML5: For the structure and content of the website.
 CSS3: For all the styling, including:
 Flexbox and CSS Grid for modern, responsive layouts.
@@ -42,13 +45,18 @@ Navigate to the project directory:
 cd Baking-Business
 Open index.html in your web browser.
 For the best experience (and to avoid any potential CORS issues with local files), it's recommended to use a live server. If you are using VS Code, you can use the Live Server extension.
+
 📁 Project Structure
+
 Baking-Business/
 ├── index.html      # The main HTML file
 ├── style.css       # All custom CSS styles
 ├── script.js       # All JavaScript logic
 └── README.md       # This file
+
+
 🌟 Future Improvements
+
 While this is a complete front-end project, here are some features that could be added with a backend:
 
 Full Backend Integration: Use Node.js/Express to handle orders and contact form submissions.
