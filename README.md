@@ -1,104 +1,110 @@
+# **Bakehouse Web Application**
+
+**Technologies:** HTML5 | CSS3 | JavaScript
+
+**Brownie World** is a fully responsive, single-page website built using vanilla HTML, CSS, and JavaScript. Designed for a home-based baking business, this modern landing page highlights delicious handmade treats with smooth UI/UX and interactive features.
+
+The website showcases products like brownies and cakes, provides an e-commerce–like browsing experience (without a backend), and is optimized to attract and engage local customers. Whether on mobile or desktop, the site ensures a seamless and visually appealing user experience.
+
+---
+
+## 🚀 **Live Demo**
+
+View the live version here:
+👉 **[https://indhumithra.github.io/Brownie-World-Online-business/](https://indhumithra.github.io/Brownie-World-Online-business/)**
+
+---
+
+## 📸 **Screenshots**
+
+**Desktop View**
 <img width="1898" height="788" alt="display page" src="https://github.com/user-attachments/assets/3ead3cdd-018e-4219-b7a7-86fb4dd1b433" /><center>Bakehouse Web Application</center>
 
+---
 
-Brownie world is a fully responsive, single-page website built using vanilla HTML, CSS, and JavaScript. Designed for a home-based baking business, this modern landing page highlights delicious handmade treats with smooth UI/UX and interactive features.
+## ✨ **Key Features**
 
-It showcases products like brownies and cakes, offers an e-commerce-like experience (without a backend), and is perfect for attracting and engaging local customers. Whether on mobile or desktop, the site ensures a seamless browsing experience.
+* **Fully Responsive Design:** Mobile-first layout that adapts beautifully to all screen sizes.
+* **Modern Theme:** Clean, attractive UI with smooth transitions and product-focused layout.
+* **Interactive Product Cards:** Hover animations and quick-view interactions for easy browsing.
+* **Persistent Shopping Cart:** Items remain saved using `localStorage`, even after page reload.
+* **Wishlist Feature:** Users can save favorite items with persistent localStorage support.
+* **Dynamic Modals:** Smooth, animated modals for cart, wishlist, and order form.
+* **On-Scroll Animations:** Elements fade or slide into view using IntersectionObserver API.
+* **Testimonial / Reviews Section:** Engaging customer feedback slider (touch-friendly).
+* **Client-Side Form Handling:** Contact and order forms with front-end validation.
 
-🚀 Live Demo
+---
 
-You can view the live version of the site here: https://indhumithra.github.io/Brownie-World-Online-business/
+## 🛠️ **Technologies Used**
 
+### **HTML5**
 
-✨ Key Features
+* Semantic structure and clean layout.
 
-Fully Responsive Design: A mobile-first approach ensures the site looks great on all devices, from small phones to large desktops.
+### **CSS3**
 
-Modern Dark Theme: A visually appealing dark theme with gold and berry accents for a premium feel.
+* Responsive design using Flexbox & CSS Grid.
+* Custom variables for consistent branding.
+* Smooth animations and hover effects.
 
-Interactive Product Cards: Users can browse products with hover effects and quick actions.
+### **JavaScript (ES6+)**
 
-Persistent Shopping Cart: Add items to a shopping cart. The cart's state is saved in the browser's localStorage, so items are not lost on page reload.
+* DOM manipulation for dynamic UI updates.
+* `localStorage` for cart and wishlist persistence.
+* IntersectionObserver for scroll-triggered animations.
 
-Persistent Wishlist: Save favorite items to a wishlist, which is also saved using localStorage.
+### **Additional Tools**
 
-Dynamic Modals: Sleek, animated modals for the cart, wishlist, and checkout/order form.
+* **Font Awesome** – Icons
+* **Google Fonts** – Typography
+* **Animate.css** (optional) – Element animations
 
-On-Scroll Animations: Elements animate into view as the user scrolls down the page, powered by the IntersectionObserver API for optimal performance.
+---
 
-Interactive Testimonial Slider: A custom-built, touch-friendly slider for customer reviews.
+## 🔧 **Setup & Installation**
 
-Client-Side Form Handling: A functional contact form and order form that provide user feedback on the front end.
+To run this project locally:
 
+```bash
+# Clone the repository
+git clone https://github.com/Indhumithra/Brownie-World-Online-business.git
 
-🛠️ Technologies Used
+# Navigate to the project folder
+cd Brownie-World-Online-business
 
-HTML5: For the structure and content of the website.
+# Open index.html in your browser
+```
 
-CSS3: For all the styling, including:
+For the best experience, use a **Live Server** (VS Code extension).
 
-Flexbox and CSS Grid for modern, responsive layouts.
+---
 
-Custom Properties (Variables) for a maintainable and consistent theme.
+## 📁 **Project Structure**
 
-Transitions & Animations for a smooth, dynamic user experience.
+```
+Brownie-World-Online-business/
+├── index.html        # Main HTML file
+├── style.css         # Custom CSS styles
+├── script.js         # JavaScript logic
+└── README.md         # Documentation
+```
 
-Vanilla JavaScript (ES6+): For all interactivity, including:
+---
 
-DOM manipulation to dynamically update the UI.
+## 🌟 **Future Improvements**
 
-localStorage for persistent cart and wishlist functionality.
+* Add a backend using Node.js/Express to handle real orders.
+* Connect to a database (MongoDB / PostgreSQL).
+* Implement user login and account management.
+* Integrate secure online payments (Stripe / Razorpay).
 
-IntersectionObserver for performant scroll animations.
+---
 
-Font Awesome: For all the icons used throughout the site.
+If you have any questions, feel free to reach out through my GitHub profile.
 
-Animate.css: For some of the pre-built element animations.
-
-Google Fonts: For custom typography (Playfair Display, Poppins, Dancing Script).
-
-
-🔧 Setup and Installation
-
-To run this project locally, follow these simple steps:
-
-Clone the repository: https://indhumithra.github.io/Brownie-World-Online-business/
-
-git clone 
-
-Navigate to the project directory: cd Baking-Business
-
-Open index.html in your web browser.
-
-For the best experience (and to avoid any potential CORS issues with local files), it's recommended to use a live server. If you are using VS Code, you can use the Live Server extension.
-
-📁 Project Structure
-
-Baking-Business/
-
-├── index.html      # The main HTML file
-
-├── style.css       # All custom CSS styles
-
-├── script.js       # All JavaScript logic
-
-└── README.md       # This file
-
-
-
-🌟 Future Improvements
-
-While this is a complete front-end project, here are some features that could be added with a backend:
-
-Full Backend Integration: Use Node.js/Express to handle orders and contact form submissions.
-
-Database: Integrate a database like MongoDB or PostgreSQL to store products, user data, and orders.
-
-User Authentication: Allow users to sign up, log in, and have their own persistent cart across devices.
-
-Payment Gateway: Integrate a payment system like Stripe or PayPal.
-
-In case of any queries, please leave a message or contact me via the email provided in my profile.
+⭐ **If you found this project helpful, please give the repository a star!**
 
 
-⭐ Star this repository if you found it helpful!
+Just tell me!
+
