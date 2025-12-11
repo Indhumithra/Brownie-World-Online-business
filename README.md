@@ -7,7 +7,7 @@ It showcases products like brownies and cakes, offers an e-commerce-like experie
 
 🚀 Live Demo
 
-You can view the live version of the site here:
+You can view the live version of the site here: https://indhumithra.github.io/Brownie-World-Online-business/
 
 
 ✨ Key Features
@@ -62,7 +62,7 @@ Google Fonts: For custom typography (Playfair Display, Poppins, Dancing Script).
 
 To run this project locally, follow these simple steps:
 
-Clone the repository:
+Clone the repository: https://indhumithra.github.io/Brownie-World-Online-business/
 
 git clone 
 
