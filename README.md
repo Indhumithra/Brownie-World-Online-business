@@ -8,15 +8,6 @@ It showcases products like brownies and cakes, offers an e-commerce-like experie
 🚀 Live Demo
 You can view the live version of the site here:
 
-
-📸 Screenshots
-
-![Uploading display page.png…](<img width="1898" height="788" alt="display page" src="https://github.com/user-attachments/assets/7a3141b2-8517-4ae8-9511-a668c7985e6c" />
-)
-![image alt](<img width="1914" height="761" alt="story page" src="https://github.com/user-attachments/assets/ac00dccd-148e-41e4-b4a2-55b5b7ce9d09" />)
-
-![image alt](<img width="1826" height="758" alt="cart page" src="https://github.com/user-attachments/assets/b06caad3-c9ea-4997-97e2-0dd6e39e1c21" />)
-
 ✨ Key Features
 Fully Responsive Design: A mobile-first approach ensures the site looks great on all devices, from small phones to large desktops.
 Modern Dark Theme: A visually appealing dark theme with gold and berry accents for a premium feel.
@@ -40,11 +31,13 @@ IntersectionObserver for performant scroll animations.
 Font Awesome: For all the icons used throughout the site.
 Animate.css: For some of the pre-built element animations.
 Google Fonts: For custom typography (Playfair Display, Poppins, Dancing Script).
+
+
 🔧 Setup and Installation
 To run this project locally, follow these simple steps:
 
 Clone the repository:
-git clone https://github.com/Sharan-Kumar-R/Baking-Business.git
+git clone 
 Navigate to the project directory:
 cd Baking-Business
 Open index.html in your web browser.
